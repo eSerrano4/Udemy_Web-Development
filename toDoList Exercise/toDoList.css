@@ -1,0 +1,12 @@
+body{
+    background: blue;
+}
+
+#special{
+    background: pink;
+    color: chartreuse;
+}
+
+.completed{
+    text-decoration: line-through;
+}
