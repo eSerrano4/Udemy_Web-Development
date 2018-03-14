@@ -1,0 +1,35 @@
+/*font-family*/
+p{
+    font-family:sans-serif;
+}
+
+h1{
+    font-family: fantasy;
+}
+
+/* Font size*/
+
+h1{
+    font-size: 50px;
+}
+
+/*Font weight*/
+p{
+    font-weight: bold;
+}
+
+/*Line Height*/
+p{
+    line-height: 1.5;
+}
+
+/*Text Align*/
+h1{
+    text-align: center;
+}
+
+/*text Decoration*/
+
+p{
+    text-decoration: underline;
+}
